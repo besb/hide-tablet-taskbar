@@ -5,4 +5,5 @@
     <dimen name="taskbar_size">0dp</dimen>
     <dimen name="taskbar_hotseat_nav_spacing">0dp</dimen>
     <dimen name="transient_taskbar_bottom_margin">0dp</dimen>
+    
 </resources>
