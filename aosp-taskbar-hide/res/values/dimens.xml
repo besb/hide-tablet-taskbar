@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="taskbar_stashed_size">0dp</dimen>
-    <dimen name="taskbar_stashed_handle_height">0dp</dimen>
     <dimen name="taskbar_size">0dp</dimen>
+    <dimen name="taskbar_phone_size">0dp</dimen>
+    <dimen name="taskbar_ime_size">0dp</dimen>
+    <dimen name="taskbar_icon_min_touch_size">0dp</dimen>
+    <!-- Note that this applies to both sides of all icons, so visible space is double this. -->
+    <dimen name="taskbar_icon_spacing">0dp</dimen>
+    <dimen name="taskbar_icon_drag_icon_size">0dp</dimen>
+    <dimen name="taskbar_folder_margin">0dp</dimen>
+    <dimen name="taskbar_contextual_button_padding">0dp</dimen>
+    <dimen name="taskbar_contextual_padding_top">0dp</dimen>
+    <dimen name="taskbar_nav_buttons_size">0dp</dimen>
+    <dimen name="taskbar_split_instructions_margin">0dp</dimen>
+    <dimen name="taskbar_contextual_button_margin">0dp</dimen>
+    <dimen name="taskbar_suw_insets">0dp</dimen>
+    <dimen name="taskbar_suw_frame">0dp</dimen>
     <dimen name="taskbar_hotseat_nav_spacing">0dp</dimen>
+    <dimen name="taskbar_contextual_buttons_size">0dp</dimen>
+    <dimen name="taskbar_stashed_size">0dp</dimen>
+    <dimen name="taskbar_stashed_handle_width">0dp</dimen>
+    <dimen name="taskbar_stashed_small_screen">0dp</dimen>
+    <dimen name="taskbar_unstash_input_area">0dp</dimen>
+    <dimen name="taskbar_stashed_handle_height">0dp</dimen>
+    <dimen name="taskbar_stashed_screen_edge_hover_deadzone_height">0dp</dimen>
+    <dimen name="taskbar_stashed_below_hover_deadzone_height">0dp</dimen>
+    <dimen name="taskbar_edu_horizontal_margin">0dp</dimen>
+    <dimen name="taskbar_nav_buttons_width_kids">0dp</dimen>
+    <dimen name="taskbar_nav_buttons_height_kids">0dp</dimen>
+    <dimen name="taskbar_nav_buttons_corner_radius_kids">0dp</dimen>
+    <dimen name="taskbar_back_button_left_margin_kids">0dp</dimen>
+    <dimen name="taskbar_home_button_left_margin_kids">0dp</dimen>
+    <dimen name="taskbar_icon_size_kids">0dp</dimen>
+    <dimen name="taskbar_all_apps_button_translation_x_offset">0dp</dimen>
+    <dimen name="taskbar_all_apps_search_button_translation_x_offset">0dp</dimen>
+    
+    <dimen name="transient_taskbar_padding">0dp</dimen>
+    <dimen name="transient_taskbar_min_width">0dp</dimen>
     <dimen name="transient_taskbar_bottom_margin">0dp</dimen>
+    <dimen name="transient_taskbar_shadow_blur">0dp</dimen>
+    <dimen name="transient_taskbar_key_shadow_distance">0dp</dimen>
+    <dimen name="transient_taskbar_stashed_height">0dp</dimen>
+    <dimen name="transient_taskbar_all_apps_button_translation_x_offset">0dp</dimen>
+    <dimen name="transient_taskbar_stash_spring_velocity_dp_per_s">0dp</dimen>
+    <dimen name="taskbar_tooltip_vertical_padding">0dp</dimen>
+    <dimen name="taskbar_tooltip_horizontal_padding">0dp</dimen>
     
 </resources>
