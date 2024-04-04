@@ -25,7 +25,7 @@
     <dimen name="taskbar_stashed_screen_edge_hover_deadzone_height">0dp</dimen>
     <dimen name="taskbar_stashed_below_hover_deadzone_height">0dp</dimen>
     <dimen name="taskbar_edu_horizontal_margin">0dp</dimen>
-    <dimen name="taskbar_nav_buttons_width_kids">0dp</dimen>
+    <!--<dimen name="taskbar_nav_buttons_width_kids">0dp</dimen>
     <dimen name="taskbar_nav_buttons_height_kids">0dp</dimen>
     <dimen name="taskbar_nav_buttons_corner_radius_kids">0dp</dimen>
     <dimen name="taskbar_back_button_left_margin_kids">0dp</dimen>
@@ -43,6 +43,6 @@
     <dimen name="transient_taskbar_all_apps_button_translation_x_offset">0dp</dimen>
     <dimen name="transient_taskbar_stash_spring_velocity_dp_per_s">0dp</dimen>
     <dimen name="taskbar_tooltip_vertical_padding">0dp</dimen>
-    <dimen name="taskbar_tooltip_horizontal_padding">0dp</dimen>
+    <dimen name="taskbar_tooltip_horizontal_padding">0dp</dimen>-->
     
 </resources>
