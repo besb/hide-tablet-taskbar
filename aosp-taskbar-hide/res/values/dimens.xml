@@ -5,6 +5,7 @@
     <!--<dimen name="taskbar_size">60dp</dimen>-->
 
     <dimen name="transient_taskbar_stashed_height">0dp</dimen>
+    <dimen name="transient_taskbar_bottom_margin">0dp</dimen>
     <!--
     <dimen name="transient_taskbar_padding">0dp</dimen>
     <dimen name="transient_taskbar_bottom_margin">0dp</dimen>
